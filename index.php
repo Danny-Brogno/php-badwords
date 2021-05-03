@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>TEST</title>
+    <title>BAD WORD</title>
   </head>
   <body>
 
@@ -24,7 +24,7 @@
     </style>
 
     <header>
-      <h1>FULMICOTONE </h1>
+      <h1>I AM A USELESS HEADING</h1>
 
       <h2>
         <?php
