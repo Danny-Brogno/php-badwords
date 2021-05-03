@@ -61,12 +61,13 @@
       <h4>
         <?php
           $testoLungo = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
-          // echo var_dump($testoLungo); die();
+          echo strlen($testoLungo);
           echo str_replace("dolor", "***", $testoLungo);
          ?>
       </h4>
 
     </header>
+    <!-- PLEASE COPY AND PASTE THIS LINK INTO THE SEARCH BAR -->
     <!-- http://localhost/?name=Danny%20&value=20 -->
   </body>
 
